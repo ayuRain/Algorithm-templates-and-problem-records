@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Algorithm_templates_and_problem_records",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2397::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2397-Debug-3ecb3db0ab642eff965b.json",
+					"name" : "2397",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Algorithm_templates_and_problem_records::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Algorithm_templates_and_problem_records-Debug-299c101c8f59fac0eb31.json",
+					"name" : "Algorithm_templates_and_problem_records",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ayu/Code/Algorithm-templates-and-problem-records/cmake-build-debug",
+		"source" : "/Users/ayu/Code/Algorithm-templates-and-problem-records"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
